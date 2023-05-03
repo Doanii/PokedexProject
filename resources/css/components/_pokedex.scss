@@ -1,0 +1,218 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+
+
+.poison {
+    background-color: purple;
+}
+
+.fire {
+    background-color: orange;
+}
+
+.grass {
+    background-color: green;
+}
+
+.normal {
+    background-color: grey;
+}
+
+.water {
+    background-color: blue;
+}
+
+.electric {
+    background-color: yellow;
+    color: black;
+}
+
+.ice {
+    background-color: lightblue;
+    color: black;
+}
+
+.fighting {
+    background-color: red;
+}
+
+.ground {
+    background-color: goldenrod;
+}
+
+.flying {
+    background-color: mediumpurple;
+}
+
+.psychic {
+    background-color: hotpink;
+}
+
+.bug {
+    background-color: olive;
+}
+
+.rock {
+    background-color: darkgoldenrod;
+}
+
+.ghost {
+    background-color: rebeccapurple;
+}
+
+.dark {
+    background-color: saddlebrown;
+}
+
+.dragon {
+    background-color: #c17aff;
+}
+
+.steel {
+    background-color: darkgray;
+}
+
+.fairy {
+    background-color: pink;
+}
+
+
+
+
+
+
+
+
+.bg-poison {
+    background-color: #ffbbff;
+}
+
+.bg-fire {
+    background-color: rgb(255, 192, 144);
+}
+
+.bg-grass {
+    background-color: #ccffcc;
+}
+
+.bg-normal {
+    background-color: #bbbbbb;
+}
+
+.bg-water {
+    background-color: #c8c8ff;
+}
+
+.bg-electric {
+    background-color: #ffffb8;
+}
+
+.bg-ice {
+    background-color: #d2f2fd;
+}
+
+.bg-fighting {
+    background-color: #ff9191;
+}
+
+.bg-ground {
+    background-color: #ffd666;
+}
+
+.bg-flying {
+    background-color: #d6c2ff;
+}
+
+.bg-psychic {
+    background-color: #ffa2cf;
+}
+
+.bg-bug {
+    background-color: #c2c277;
+}
+
+.bg-rock {
+    background-color: #ffcd54;
+}
+
+.bg-ghost {
+    background-color: #b06afa;
+}
+
+.bg-dark {
+    background-color: #b27a4e;
+}
+
+.bg-dragon {
+    background-color: #e0bcff;
+}
+
+.bg-steel {
+    background-color: #dedede;
+}
+
+.bg-fairy {
+    background-color: #ffe2e8;
+}
+
+
+
+
+.hp {
+    color: red;
+}
+
+.bg-hp::-webkit-progress-value {
+    background-color: red;
+}
+
+.attack {
+    color: #0036a6;
+}
+
+.bg-attack::-webkit-progress-value {
+    background-color: #0036a6;
+}
+
+.defense {
+    color: #52b252;
+}
+
+.bg-defense::-webkit-progress-value {
+    background-color: #52b252;
+}
+
+.special-attack {
+    color: #00b9ff;
+}
+
+.bg-special-attack::-webkit-progress-value {
+    background-color: #00b9ff;
+}
+
+.special-defense {
+    color: #00ff00;
+}
+
+.bg-special-defense::-webkit-progress-value {
+    background-color: #00ff00;
+}
+
+.speed {
+    color: gold;
+}
+
+.bg-speed::-webkit-progress-value {
+    background-color: gold;
+}
+
+.bar::-webkit-progress-value {
+    border-radius: 10px;
+}
+
+.bar::-webkit-progress-bar {
+    background-color: #dedede;
+    border-radius: 10px;
+}
